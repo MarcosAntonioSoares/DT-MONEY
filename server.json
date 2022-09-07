@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Vendas",
+      "price": 14000,
+      "createdAt": "2022-08-10T00:54:13.512Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-08-10T00:30:13.512Z"
+    },
+    {
+      "id": 3,
+      "description": "Projeto 02",
+      "type": "outcome",
+      "category": "Saída",
+      "price": 1500,
+      "createdAt": "2022-08-10T00:20:13.512Z"
+    },
+    {
+      "description": "Desenvolvimento de APP",
+      "price": 20000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-08-11T02:03:27.942Z",
+      "id": 4
+    },
+    {
+      "description": "Almoço",
+      "price": 30,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-08-11T02:21:51.996Z",
+      "id": 5
+    },
+    {
+      "description": "aASAS",
+      "price": 150,
+      "category": "Teste",
+      "type": "income",
+      "createdAt": "2022-09-07T14:27:18.621Z",
+      "id": 6
+    }
+  ]
+}
